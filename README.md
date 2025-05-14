@@ -26,11 +26,11 @@ The database is built purely in **MySQL**, designed to support:
 ## Project Structure
 --------------------
 
-<pre> ```bash
+<pre>
    university-db/  
    ├── university_db_schema.sql  
    ├── README.md  
-   └── ERD.png   ```</pre>
+   └── ERD.png </pre>
 
 ## How to Run / Setup the Project
 ---------------------------------
@@ -46,9 +46,9 @@ The database is built purely in **MySQL**, designed to support:
 
 1.  **Clone or download** this repository.
 
-<pre> ``` 
+<pre> 
  git clone https://github.com/ClarenceLaria/plp-wk-8-database.git
-``` </pre>
+</pre>
     
 2.  Open your MySQL environment (CLI or GUI).
     
@@ -117,7 +117,7 @@ TableDescription**School**Represents a school within the university (e.g., Schoo
 
 You can view the ERD here:
 
-> Replace the path with a URL or file name if you store the diagram elsewhere.
+> https://github.com/ClarenceLaria/plp-wk-8-database/blob/main/ERD.png.
 
 ## Submission Instructions
 --------------------------
